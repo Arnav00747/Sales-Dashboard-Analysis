@@ -21,7 +21,9 @@ Superstore Sales Dataset including sales, profit, quantity, and regional data.
 * Payment mode insights
 * Shipping mode analysis
 * 15 Days Sales Forecast
-* dasboard preview:-<img width="1326" height="742" alt="image" src="https://github.com/user-attachments/assets/108b3971-5acc-4a9b-92a5-cb8989c1ff89" />
+* Dasboard preview:-<img width="1326" height="742" alt="image" src="https://github.com/user-attachments/assets/108b3971-5acc-4a9b-92a5-cb8989c1ff89" />
+<img width="1288" height="740" alt="image" src="https://github.com/user-attachments/assets/9ca74b41-7026-4685-8d3b-fc4cfedc6793" />
+
 
 
 ## 🔍 Key Insights
